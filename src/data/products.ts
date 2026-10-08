@@ -5,7 +5,7 @@ export const products: Product[] = [
     id: "ven-dens-power-bank",
     slug: "ven-dens-power-bank",
     name: "VEN-DENS Power Bank",
-    brand: "VEN-DENS",
+    brand: "Ven-Dens",
     category: "power-banks",
     price: 15,
     description:
