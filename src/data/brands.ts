@@ -1,1 +1,1 @@
-export const brands = ["HOCO", "XO", "Vention", "Foneng", "Ven Dens"];
+export const brands = ["HOCO", "XO", "Foneng", "Ven-Dens"];
