@@ -102,7 +102,7 @@ export const products: Product[] = [
   price: 15,
   description:
     "Giant smart car audio transmitter featuring USB-C dual-port connectivity and a dual-engine design.",
-  images: ["/products/gtans.jpeg",
+  images: ["/products/gtrans.jpeg",
     "/products/gtans2.jpg"
   ],
   specifications: {
